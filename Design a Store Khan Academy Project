@@ -1,0 +1,16 @@
+CREATE TABLE DressBarn (id INTEGER PRIMARY KEY, name TEXT, quantity INTEGER, aisle INTEGER, price INTEGER);
+INSERT INTO DressBarn VALUES (1, "Dress 1", 24, 1, 1);
+INSERT INTO DressBarn VALUES (2, "Dress 2", 55, 1, 2);
+INSERT INTO DressBarn VALUES (3, "Dress 3", 20, 1, 3);
+INSERT INTO DressBarn VALUES (4, "Dress 4", 13, 1, 4);
+INSERT INTO DressBarn VALUES (5, "Dress 5", 21, 1, 5);
+INSERT INTO DressBarn VALUES (6, "Dress 6", 40, 1, 6);
+INSERT INTO DressBarn VALUES (7, "Dress 7", 3, 1, 7);
+INSERT INTO DressBarn VALUES (8, "Dress 8", 10, 1, 8);
+INSERT INTO DressBarn VALUES (9, "Dress 9", 50, 1, 9);
+INSERT INTO DressBarn VALUES (10, "Dress 10", 10, 1, 10);
+INSERT INTO DressBarn VALUES (11, "Dress 11", 11, 1, 11);
+INSERT INTO DressBarn VALUES (12, "Dress 12", 2, 1, 12);
+INSERT INTO DressBarn VALUES (13, "Dress 13", 13, 1, 13);
+INSERT INTO DressBarn VALUES (14, "Dress 14", 14, 1, 14);
+INSERT INTO DressBarn VALUES (15, "Dress 15", 15, 1, 15);
